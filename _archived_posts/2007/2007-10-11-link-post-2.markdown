@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-11
+title: "Link post"
+---
+<http://caimansys.com/painter/>
+

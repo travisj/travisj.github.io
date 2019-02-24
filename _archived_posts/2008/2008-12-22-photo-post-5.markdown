@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-12-22
+title: "Photo post"
+---
+![travisj](/images/fe69aede36e69e37217cb7c470ca5e7544906c28b1fccac87dcebb0ad9d0fedd.jpg)
+
+Rock band at the johnson182's

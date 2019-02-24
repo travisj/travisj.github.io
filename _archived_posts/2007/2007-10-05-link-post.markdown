@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-05
+title: "Link post"
+---
+<http://junctionphp.com/>
+

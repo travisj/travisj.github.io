@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-27
+title: "Link post"
+---
+<http://labs.adobe.com/technologies/air/>
+

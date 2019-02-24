@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-19
+title: "Link post"
+---
+<http://devzone.zend.com/node/view/id/2019>
+

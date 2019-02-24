@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-31
+title: "Link post 1"
+---
+<http://gears.google.com/>
+

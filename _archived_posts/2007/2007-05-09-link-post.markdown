@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-09
+title: "Link post"
+---
+<http://googlemapsapi.blogspot.com/2007/04/introduction-and-yahoo-pipes.html>
+

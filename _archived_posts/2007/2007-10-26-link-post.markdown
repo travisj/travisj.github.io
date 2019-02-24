@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-26
+title: "Link post"
+---
+<http://ypnblog.com/blog/2007/10/26/avoiding-ad-fatigue/>
+

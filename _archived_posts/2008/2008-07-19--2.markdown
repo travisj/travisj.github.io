@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-07-19
+title: ""
+---
+After updating to the newest version of loopt the geo location on my phone works much more reliably.

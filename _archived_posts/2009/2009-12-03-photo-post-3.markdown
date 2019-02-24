@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-12-03
+title: "Photo post"
+---
+![travisj](/images/9dd91384e124da6b23655d22173233d39dbc50d0039231436fd3cda9fbbe5092.jpg)
+
+<b>IMG_0003</b>

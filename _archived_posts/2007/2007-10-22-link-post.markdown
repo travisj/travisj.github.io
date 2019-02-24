@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-22
+title: "Link post"
+---
+<http://www.webdesignerwall.com/general/useful-wordpress-plugins/>
+

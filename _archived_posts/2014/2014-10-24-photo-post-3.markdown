@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2014-10-24
+title: "Photo post"
+category: crusher
+---
+![travisj](/images/e078b9208f1757466c40d77570ab9aecfe1d62104cb4048f1c982c1098527b23.jpg)
+
+Getting hugs.

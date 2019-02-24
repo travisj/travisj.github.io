@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-09
+title: "Link post"
+---
+<http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=61479977>
+

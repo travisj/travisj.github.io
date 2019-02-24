@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-12
+title: "Link post"
+---
+<http://gigaom.com/2007/11/12/free-facebook-app-hosting/>
+

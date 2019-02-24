@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-09
+title: "Link post"
+---
+<http://www.eyefinity.com/DrHowardFineMD/home.htm>
+

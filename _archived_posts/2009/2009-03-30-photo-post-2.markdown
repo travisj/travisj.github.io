@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-03-30
+title: "Photo post"
+---
+![travisj](/images/81c166a5241a0488fc629e0221782b98ce2f37cd8e354186016a8a14b385592b.jpg)
+
+<b>Crush and I enjoying the sun while Rachel drives.</b>

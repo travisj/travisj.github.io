@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-02
+title: "Link post"
+---
+<http://blog.ning.com/2007/11/andwere_live_with_opensocial_g.html>
+

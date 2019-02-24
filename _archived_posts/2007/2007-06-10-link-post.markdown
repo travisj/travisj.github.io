@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-10
+title: "Link post"
+---
+<http://www.colourlovers.com/>
+

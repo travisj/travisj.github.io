@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-20
+title: "Link post"
+---
+<http://messenger.yahoo.com/hiddenemoticons.php>
+

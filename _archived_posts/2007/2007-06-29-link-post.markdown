@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-29
+title: "Link post"
+---
+<http://ypnblog.com/blog/2007/06/29/to-corp-or-not-to-corp/>
+

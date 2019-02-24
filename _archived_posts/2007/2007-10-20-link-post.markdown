@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-20
+title: "Link post"
+---
+<http://colbert08.org/>
+

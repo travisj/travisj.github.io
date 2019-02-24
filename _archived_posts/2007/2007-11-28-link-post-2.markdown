@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-28
+title: "Link post"
+---
+<http://minimaldesign.net/blog/workflow/os-x-backup-system>
+

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2010-12-05
+title: "Link post"
+---
+<http://bit.ly/eDRmAZ>
+

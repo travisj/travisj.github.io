@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2011-03-06
+title: "Photo post"
+---
+![travisj](/images/3e6c21add45c92d040d9338331a42509b88df9368584eb31517e5916952357ec.jpg)
+
+When in Rome... Be sure and take a picture like every other tourist. 

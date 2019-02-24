@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-14
+title: "Link post"
+---
+<http://www.edgefieldconcerts.com/index.php?page=wilco>
+

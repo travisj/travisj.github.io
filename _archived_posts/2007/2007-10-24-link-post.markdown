@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-24
+title: "Link post"
+---
+<https://www.google.com/adsense/support/bin/answer.py?answer=32614&sourceid=aso&subid=ww-ww-et-asui&medium=link>
+

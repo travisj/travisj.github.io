@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-29
+title: "Link post"
+---
+<http://www.developingwebs.net/flash/digital_clockmx.php>
+
